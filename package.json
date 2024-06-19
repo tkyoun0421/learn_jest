@@ -4,7 +4,7 @@
   "description": "테스트 코드",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest --watch"
   },
   "keywords": [],
   "author": "",
